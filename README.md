@@ -204,14 +204,7 @@ sns.boxplot(x='sepal_width',data=delid)
 
 ![265189449-5a8c15a3-a066-41bc-8258-0df36b8f3c5f](https://github.com/divyakumars/ODD2023---Datascience---Ex-02/assets/119393621/cb999a5b-275d-4dc7-961f-7800b5451501)
 
-
-
-
-
 ![265189468-12ac2ed2-8cb0-408b-8c68-9af01f2e8146](https://github.com/divyakumars/ODD2023---Datascience---Ex-02/assets/119393621/b1655335-1978-42ff-a039-dd4c1dc9d77b)
-
-
-
 
 ![265189742-e4785692-85e1-49c3-a44c-77664609ed8b](https://github.com/divyakumars/ODD2023---Datascience---Ex-02/assets/119393621/afd03d2b-4d17-44c5-95f1-4738904fb61c)
 ![image](https://github.com/divyakumars/ODD2023---Datascience---Ex-02/assets/119393621/ff1ca552-5a59-4084-a416-30ee22a387ff)
